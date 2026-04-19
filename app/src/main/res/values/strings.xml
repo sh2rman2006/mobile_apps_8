@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaLab</string>
+    <string name="gallery_title">Галерея изображений</string>
+    <string name="previous_button">Назад</string>
+    <string name="next_button">Вперёд</string>
+    <string name="slideshow_button">Автосмена</string>
+    <string name="stop_slideshow_button">Остановить автосмену</string>
+    <string name="open_video_button">Открыть видеоплеер</string>
+</resources>
